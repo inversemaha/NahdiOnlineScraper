@@ -1,0 +1,221 @@
+{
+  "processed_ingredients": [
+    "Letrozole",
+    "Granisetron",
+    "abemaciclib",
+    "enzalutamide",
+    "Pembrolizumab",
+    "Oseltamivir",
+    "canakinumab",
+    "zoledronic acid",
+    "Goserelin",
+    "Anastrazole",
+    "nilotinib",
+    "Sorafenib",
+    "Ramucirumab",
+    "Ruxolitinib",
+    "trastuzumab",
+    "crizotinib",
+    "sunitinib",
+    "Ribociclib",
+    "Palbociclib",
+    "osimertinib",
+    "Imatinib Mesilate",
+    "pazopanib",
+    "abiraterone acetate",
+    "ibrutinib",
+    "exemestano",
+    "olaparib",
+    "Acalabrutinib Maleate",
+    "Lenalidomide"
+  ],
+  "processed_urls": [
+    "https://www.nahdionline.com/en-sa/xalkori-250mg-capsule/pdp/100949686",
+    "https://www.nahdionline.com/en-sa/ibrance-125-mg-21-capsules/pdp/101151983",
+    "https://www.nahdionline.com/en-sa/votrient-400-mg-30-tablet/pdp/101215326",
+    "https://www.nahdionline.com/en-sa/sutent-50-mg-30capsule/pdp/100966523",
+    "https://www.nahdionline.com/en-sa/keytruda-25-mgml-4-ml-vial-refrigerator/pdp/101186043",
+    "https://www.nahdionline.com/en-sa/aromasin-25-mg-30-tablets/pdp/101079387",
+    "https://www.nahdionline.com/en-sa/cyramza-100-mg-10-ml-1-vial-refrigerator/pdp/101225233",
+    "https://www.nahdionline.com/en-sa/zometa-4mg-vial5ml/pdp/100949571",
+    "https://www.nahdionline.com/en-sa/kisqali-200-mg-63-tablets/pdp/101240265",
+    "https://www.nahdionline.com/en-sa/femara-25mg-tablets-30/pdp/100620477",
+    "https://www.nahdionline.com/en-sa/tasigna-150mg-capsules/pdp/100949627",
+    "https://www.nahdionline.com/en-sa/calquence-100-mg-acalabrutinib-film-60-coated-tablets/pdp/103500665",
+    "https://www.nahdionline.com/en-sa/zytiga-500mg-60-tablets/pdp/101866655",
+    "https://www.nahdionline.com/en-sa/xalkori-200mg-capsule/pdp/100949678",
+    "https://www.nahdionline.com/en-sa/ibrance-75-mg-21-capsules/pdp/101151967",
+    "https://www.nahdionline.com/en-sa/arimidex-1mg-28-tab/pdp/100965900",
+    "https://www.nahdionline.com/en-sa/herceptin-150-mg-vial-refrigerator/pdp/101103367",
+    "https://www.nahdionline.com/en-sa/sancuso-granisetron-31-mg-1-patch/pdp/101173939",
+    "https://www.nahdionline.com/en-sa/lenamid-10-mg-capsule-21/pdp/102737661",
+    "https://www.nahdionline.com/en-sa/cyramza-500-mg50-ml-1-vial-refrigerator/pdp/101225225",
+    "https://www.nahdionline.com/en-sa/lenamid-25-mg-capsule-21/pdp/102737679",
+    "https://www.nahdionline.com/en-sa/imatinib-spc-400mg-30-tab/pdp/103330782",
+    "https://www.nahdionline.com/en-sa/tagrisso-80-mg-film-coated-30-tablet/pdp/101498506",
+    "https://www.nahdionline.com/en-sa/nexavar-200-mg-tablet-60/pdp/100747283",
+    "https://www.nahdionline.com/en-sa/ibrance-100-mg-21-capsules/pdp/101151975",
+    "https://www.nahdionline.com/en-sa/aclasta-5mg-100ml-infusion/pdp/100949563",
+    "https://www.nahdionline.com/en-sa/ilaris-150-mg-vial-injection-refrigerator/pdp/101120466",
+    "https://www.nahdionline.com/en-sa/lenamid-5-mg-capsule-21/pdp/102737652",
+    "https://www.nahdionline.com/en-sa/jakavi-15mg-56tablets/pdp/100949598",
+    "https://www.nahdionline.com/en-sa/glivec-100mg-tablet/pdp/100880236",
+    "https://www.nahdionline.com/en-sa/jakavi-5mg-56tablets/pdp/100949619",
+    "https://www.nahdionline.com/en-sa/zoladex-36-mg-pre-filled-syringe/pdp/100024093",
+    "https://www.nahdionline.com/en-sa/verzenio-150-mg-14-tablets/pdp/101635857",
+    "https://www.nahdionline.com/en-sa/lynparza-150-mg-112-film-coated-tab/pdp/101989938",
+    "https://www.nahdionline.com/en-sa/glivec-400mg-tablets/pdp/100880252",
+    "https://www.nahdionline.com/en-sa/jakavi-20mg-56tablets/pdp/100949601",
+    "https://www.nahdionline.com/en-sa/tagrisso-40-mg-film-coated-30-tablet/pdp/101498493",
+    "https://www.nahdionline.com/en-sa/xtandi-40-mg-112-capsules/pdp/101381164",
+    "https://www.nahdionline.com/en-sa/tasigna-200mg-capsules/pdp/100949580",
+    "https://www.nahdionline.com/en-sa/imbruvica-140-mg-120-capsules/pdp/101120474"
+  ],
+  "total_processed": 40,
+  "current_ingredient_index": 28,
+  "ingredients_extracted": true,
+  "cached_ingredients": [
+    {
+      "name": "Imatinib Mesilate",
+      "count": "3",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Imatinib%20Mesilate"
+    },
+    {
+      "name": "Lenalidomide",
+      "count": "3",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Lenalidomide"
+    },
+    {
+      "name": "Palbociclib",
+      "count": "3",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Palbociclib"
+    },
+    {
+      "name": "Ruxolitinib",
+      "count": "3",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Ruxolitinib"
+    },
+    {
+      "name": "Ramucirumab",
+      "count": "2",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Ramucirumab"
+    },
+    {
+      "name": "crizotinib",
+      "count": "2",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=crizotinib"
+    },
+    {
+      "name": "nilotinib",
+      "count": "2",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=nilotinib"
+    },
+    {
+      "name": "zoledronic acid",
+      "count": "2",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=zoledronic%20acid"
+    },
+    {
+      "name": "Acalabrutinib Maleate",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Acalabrutinib%20Maleate"
+    },
+    {
+      "name": "Anastrazole",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Anastrazole"
+    },
+    {
+      "name": "Goserelin",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Goserelin"
+    },
+    {
+      "name": "Granisetron",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Granisetron"
+    },
+    {
+      "name": "Letrozole",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Letrozole"
+    },
+    {
+      "name": "Oseltamivir",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Oseltamivir"
+    },
+    {
+      "name": "Pembrolizumab",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Pembrolizumab"
+    },
+    {
+      "name": "Ribociclib",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Ribociclib"
+    },
+    {
+      "name": "Sorafenib",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=Sorafenib"
+    },
+    {
+      "name": "abemaciclib",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=abemaciclib"
+    },
+    {
+      "name": "abiraterone acetate",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=abiraterone%20acetate"
+    },
+    {
+      "name": "canakinumab",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=canakinumab"
+    },
+    {
+      "name": "enzalutamide",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=enzalutamide"
+    },
+    {
+      "name": "exemestano",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=exemestano"
+    },
+    {
+      "name": "ibrutinib",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=ibrutinib"
+    },
+    {
+      "name": "olaparib",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=olaparib"
+    },
+    {
+      "name": "osimertinib",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=osimertinib"
+    },
+    {
+      "name": "pazopanib",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=pazopanib"
+    },
+    {
+      "name": "sunitinib",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=sunitinib"
+    },
+    {
+      "name": "trastuzumab",
+      "count": "1",
+      "filter_url": "https://www.nahdionline.com/en-sa/rx-treatments/cancer-treatments/plp/72666?refinementList%5Bingredient%5D%5B0%5D=trastuzumab"
+    }
+  ],
+  "completed": true,
+  "completed_at": "2025-08-14T05:04:12.337891"
+}
